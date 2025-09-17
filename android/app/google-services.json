@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229767280033",
+    "project_id": "medimy-61565",
+    "storage_bucket": "medimy-61565.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229767280033:android:a84c76d4256a5b558dc7e0",
+        "android_client_info": {
+          "package_name": "com.example.medimy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBje2d9_lrzCgB7TZLf6plJVwZZKF4Mpuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229767280033:android:7e4f2790bf1a04d18dc7e0",
+        "android_client_info": {
+          "package_name": "com.mediMy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBje2d9_lrzCgB7TZLf6plJVwZZKF4Mpuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
